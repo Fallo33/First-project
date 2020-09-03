@@ -16,44 +16,44 @@
 
 }
 nav{
-    background-color: aqua;
+    background-color:whitesmoke;
     grid-area: nav;
     border-radius:var(--main-radius);
     padding-top:var(--main-padding);
 
 }
 main{
-    background-color:yellow;
+    background-color:whitesmoke;
     grid-area: main;
     border-radius:var(--main-radius);
     padding-top:var(--main-padding);
 }
 #sidebar{
-    background-color: lightgreen;
+    background-color: whitesmoke;
     grid-area: sidebar;
     border-radius:var(--main-radius);
     padding-top:var(--main-padding);
 }
 #content1{ 
-    background-color: chartreuse;
+    background-color: whitesmoke;
     grid-area: content1;
     border-radius:var(--main-radius);
     padding-top:var(--main-padding);
 }
 #content2{
-    background-color: crimson;
+    background-color:whitesmoke;
     grid-area: content2;
     border-radius:var(--main-radius);
     padding-top:var(--main-padding);
 }
 #content3{
-    background-color: darkgreen;
+    background-color:whitesmoke;
     grid-area: content3;
     border-radius:var(--main-radius);
     padding-top:var(--main-padding);
 }
 #content4{ 
-    background-color: darkmagenta;
+    background-color:whitesmoke;
     grid-area: content4;
     border-radius:var(--main-radius);
     padding-top:var(--main-padding);
